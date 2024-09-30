@@ -26,6 +26,8 @@
 ![scheme](https://github.com/user-attachments/assets/6e17c10e-c4ff-4f94-a171-aa6da2def8be)
 ![image](https://github.com/user-attachments/assets/dbd85289-1b3d-4aae-bf41-abf549f75320)
 
+### Видео работы проекта 
+https://cloud.mail.ru/public/vg27/Kyrp9uv6E
 
 ## Детектор источника света с arduino nano [Light_source_detector](https://github.com/Kirilligu/Internet-of-Things/tree/main/Light_source_detector).
 #### Проект представляет собой детектор направления источника освещенности, который использует два фоторезистора для определения разницы в освещенности и индикации направления, в котором находится более яркий источник света (например, окно). Система управляет двумя светодиодами, которые сигнализируют, в какую сторону необходимо повернуть устройство, чтобы источник света оказался прямо перед ним. Когда устройство находится в оптимальном положении, оба светодиода горят постоянно.
@@ -50,3 +52,6 @@
 ### Схемы подключения 
 ![Dazzling Jarv](https://github.com/user-attachments/assets/a05cde81-e87d-49dd-837e-4fb0c3ce826d)
 ![image](https://github.com/user-attachments/assets/9c24c18b-fe2a-4f2f-a6fd-9685373ebe3a)
+
+### Видео работы проекта 
+https://cloud.mail.ru/public/YsXo/9wuftQXbf
