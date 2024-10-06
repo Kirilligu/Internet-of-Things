@@ -79,4 +79,4 @@ https://cloud.mail.ru/public/YsXo/9wuftQXbf
 
 
 ### Видео работы проекта 
-[https://cloud.mail.ru/public/YsXo/9wuftQXbf](https://cloud.mail.ru/public/NaiE/nyKNdCcHd)
+[(https://cloud.mail.ru/public/NaiE/nyKNdCcHd)](https://cloud.mail.ru/public/NaiE/nyKNdCcHd)
