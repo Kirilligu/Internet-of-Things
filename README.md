@@ -46,7 +46,6 @@ https://cloud.mail.ru/public/vg27/Kyrp9uv6E
 4. LED2 подключить к цифровому пину 8
 5. Установите Arduino IDE на компьютер
 6. Загрузите код в плату через USB-кабель
-7. Откройте Serial Monitor для управления светофором
 
 
 ### Схемы подключения 
@@ -55,3 +54,29 @@ https://cloud.mail.ru/public/vg27/Kyrp9uv6E
 
 ### Видео работы проекта 
 https://cloud.mail.ru/public/YsXo/9wuftQXbf
+
+
+## Управление светодиодом в зависимости от освещенности с arduino nano [LedPhotoDistributedSerial]([https://github.com/Kirilligu/Internet-of-Things/tree/main/Light_source_detector](https://github.com/Kirilligu/Internet-of-Things/tree/main/LedPhotoDistributedSerial)).
+#### Этот проект реализует управление светодиодом в зависимости от показаний фоторезистора, используя две Arduino-платы. Одна плата контролирует светодиод, а другая считывает значения освещенности с фоторезистора и передает их на первую плату. Датчик и светодиод подключены к разным микроконтроллерам. Микроконтроллеры не связаны между собой напрямую, только с помощью USB через ПК. Микроконтроллеры просто отрабатывают команды присланные с ПК, решение принимается на ПК.
+
+### Для создания понадобится:
+- Плата Arduino (x2)
+- Фоторезистор
+- Светодиод
+- 2 резистора 
+- Макетная плата и соединительные провода
+
+### Шаги по сборке проекта
+1. Фоторезистор подключить к аналоговому пину A7 (если используете Arduino uno, то нужно поменять порт как на плате, так и в коде, например на A5)
+2. Светодиод подключить к цифровому пину 2
+3. Установите Arduino IDE на компьютер
+4. Загрузите коды в платы через USB-кабель
+
+
+### Схемы подключения 
+![Smooth Waasa-Curcan](https://github.com/user-attachments/assets/4d917338-38a9-40ec-b54d-05e6c2c3fe18)
+![image](https://github.com/user-attachments/assets/347defe8-8e0e-41ac-a229-b26cd36dafc3)
+
+
+### Видео работы проекта 
+[https://cloud.mail.ru/public/YsXo/9wuftQXbf](https://cloud.mail.ru/public/NaiE/nyKNdCcHd)
