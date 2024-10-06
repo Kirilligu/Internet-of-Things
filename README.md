@@ -56,7 +56,7 @@ https://cloud.mail.ru/public/vg27/Kyrp9uv6E
 https://cloud.mail.ru/public/YsXo/9wuftQXbf
 
 
-## Управление светодиодом в зависимости от освещенности с arduino nano [LedPhotoDistributedSerial](https://github.com/Kirilligu/Internet-of-Things/tree/main/LedPhotoDistributedSerial)).
+## Управление светодиодом в зависимости от освещенности с arduino nano [LedPhotoDistributedSerial](https://github.com/Kirilligu/Internet-of-Things/tree/main/LedPhotoDistributedSerial).
 #### Этот проект реализует управление светодиодом в зависимости от показаний фоторезистора, используя две Arduino-платы. Одна плата контролирует светодиод, а другая считывает значения освещенности с фоторезистора и передает их на первую плату. Датчик и светодиод подключены к разным микроконтроллерам. Микроконтроллеры не связаны между собой напрямую, только с помощью USB через ПК. Микроконтроллеры просто отрабатывают команды присланные с ПК, решение принимается на ПК.
 
 ### Для создания понадобится:
