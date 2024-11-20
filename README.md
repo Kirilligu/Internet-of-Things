@@ -162,3 +162,29 @@ https://cloud.mail.ru/public/Giqg/LJj36gMBB
 
 ### Видео работы проекта 
 https://cloud.mail.ru/public/sEAe/Wu9GxW232
+
+
+## LedMatrix [LedMatrix](https://github.com/Kirilligu/Internet-of-Things/tree/main/LedMatrix).
+#### Подключить светодиоды как показано на схеме
+![image](https://github.com/user-attachments/assets/0dc5abf5-3b5d-40bc-8b76-7f71a77e1fea)
+
+![image](https://github.com/user-attachments/assets/607af27a-e408-4651-89ef-ed51bf90d38d)
+
+
+### Для создания понадобится:
+- Плата ESP8266
+- Светодиод
+- Резистор
+- Ноутбуки
+
+### Шаги по сборке проекта
+1. Установите Arduino IDE на компьютер
+2. Загрузите коды в плату через USB-кабель
+3. После этого ESP включит точку доступа с такими данными: SSID - WIFI_LAMP , Пароль - WIFILAMP123.
+4. После подключения к esp перейдите на 192.168.4.1 и введите данные вашего домашнего интернета и убедитесь что он подключился (индикатор мигает 2 раза, потом пауза)
+5. Убедитесь, что подключение к MQTT произошло (индикатор мигает 2 раза, потом пауза)
+6. Запустите клиента на python и подпишитесь на топик, введя id лампочки 1
+7. Проект готов и работает
+
+### Видео работы проекта 
+https://cloud.mail.ru/public/hot5/biH7aFHu2
