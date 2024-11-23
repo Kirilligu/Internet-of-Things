@@ -208,3 +208,24 @@ https://cloud.mail.ru/home/IMG_5254.MOV?weblink=hot5%2FbiH7aFHu2
 
 ### Видео работы проекта 
 https://cloud.mail.ru/public/rFFX/cj2xaJrUc
+
+
+## LedMatrix8x8_registers [LedMatrix8x8_registers](https://github.com/Kirilligu/Internet-of-Things/tree/main/LedMatrix8x8_registers).
+#### Схема подключения
+![Smooth Waasa-Curcan (2)](https://github.com/user-attachments/assets/1e021f0d-f556-424a-85fb-412235c0169e)
+![image](https://github.com/user-attachments/assets/86815cb7-0583-4703-97b9-a60c9c226515)
+
+
+
+### Для создания понадобится:
+- Arduino IDE– 8×8 LED matrix
+- Резистор (x6)
+- Ноутбук
+
+### Шаги по сборке проекта
+1. Установите Arduino IDE на компьютер
+2. Загрузите код в плату через USB-кабель
+
+
+### Видео работы проекта 
+https://cloud.mail.ru/public/rFFX/cj2xaJrUc
