@@ -228,4 +228,4 @@ https://cloud.mail.ru/public/rFFX/cj2xaJrUc
 
 
 ### Видео работы проекта 
-https://cloud.mail.ru/public/rFFX/cj2xaJrUc
+https://cloud.mail.ru/public/Kcou/P6HdtyoUP
