@@ -233,8 +233,8 @@ https://cloud.mail.ru/public/Kcou/P6HdtyoUP
 
 ## ShiftRegisters [ShiftRegister](https://github.com/Kirilligu/Internet-of-Things/tree/main/ShiftRegister).
 #### Схема подключения
-![Smooth Waasa-Curcan (2)](https://github.com/user-attachments/assets/1e021f0d-f556-424a-85fb-412235c0169e)
-![image](https://github.com/user-attachments/assets/86815cb7-0583-4703-97b9-a60c9c226515)
+![Fantabulous Uusam-Rottis](https://github.com/user-attachments/assets/476be351-3643-4a0c-9d80-a058c8bc05bd)
+![image](https://github.com/user-attachments/assets/0497813d-c7d9-42fb-ba33-3ea28390d52e)
 
 
 
