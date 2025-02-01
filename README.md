@@ -251,3 +251,22 @@ https://cloud.mail.ru/public/Kcou/P6HdtyoUP
 
 ### Видео работы проекта 
 https://cloud.mail.ru/public/heXG/sQaWu9XTy
+
+
+## BounceProcessing [BounceProcessing](https://github.com/Kirilligu/Internet-of-Things/tree/main/BounceProcessing).
+#### Схема подключения
+![image](https://github.com/user-attachments/assets/c614c235-6011-4a7f-b9ed-bd1328b0c3ac)
+
+
+### Для создания понадобится:
+- Arduino UNO
+- Кнопка
+- Резисторы 220 Oм (8шт)
+
+### Шаги по сборке проекта
+1. Установите Arduino IDE на компьютер
+2. Загрузите код в плату через USB-кабель
+
+
+### Видео работы проекта 
+
