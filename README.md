@@ -254,6 +254,7 @@ https://cloud.mail.ru/public/heXG/sQaWu9XTy
 
 
 ## BounceProcessing [BounceProcessing](https://github.com/Kirilligu/Internet-of-Things/tree/main/BounceProcessing).
+####  Это приложение предназначено для подсчёта количества нажатий на кнопку и устранения эффекта дребезга при нажатии
 #### Схема подключения
 ![image](https://github.com/user-attachments/assets/c614c235-6011-4a7f-b9ed-bd1328b0c3ac)
 
@@ -262,6 +263,7 @@ https://cloud.mail.ru/public/heXG/sQaWu9XTy
 - Arduino UNO
 - Кнопка
 - Резисторы 220 Oм (8шт)
+- Провода для подключения
 
 ### Шаги по сборке проекта
 1. Установите Arduino IDE на компьютер
@@ -269,4 +271,4 @@ https://cloud.mail.ru/public/heXG/sQaWu9XTy
 
 
 ### Видео работы проекта 
-
+https://cloud.mail.ru/public/fxYs/oRPjZSPot
