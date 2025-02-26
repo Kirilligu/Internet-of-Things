@@ -292,3 +292,20 @@ https://cloud.mail.ru/public/fxYs/oRPjZSPot
 
 ### Видео работы проекта 
 https://cloud.mail.ru/public/Wa6y/24Jz2JY8L
+
+
+## H-bridge [H-bridge](https://github.com/Kirilligu/Internet-of-Things/tree/main/H-bridge).
+####  Суть задания
+Создать схему подключение мотора так чтобы можно было управлять как скоростью так и направлением вращения. Написать функцию для управления мотором. В функцию должно передаваться направление и скорость. Используйте эту функцию в loop чтобы продемонстрировать разные режимы работы мотора.
+#### Схема подключения
+![Fantastic Turing-Wluff](https://github.com/user-attachments/assets/ce9efa0e-5cda-49a8-a5e1-882a4ae213b6)
+
+### Шаги по сборке проекта
+1. Установите Arduino IDE на компьютер
+2. Соберите макет
+3.  Загрузите код в плату через USB-кабель
+
+
+### Схема в Tinkercad
+https://www.tinkercad.com/things/9i0L8GXz2Nv-fantastic-turing-wluff?sharecode=Wkb57XTvXZ40aVmLFshSoNxD_X27Axj2mIryD59IqYA
+
