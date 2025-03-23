@@ -332,6 +332,7 @@ https://www.tinkercad.com/things/9i0L8GXz2Nv-fantastic-turing-wluff?sharecode=Wk
 Программа должна собрать данные через Serial (UART), провести расчет и построить графики.
 Реализовать калибровку на основе собранных данных.
 #### Схема подключения
+![Incredible Blad-Leelo](https://github.com/user-attachments/assets/6cf1b7ec-2df6-4e64-a097-97ffe2a55dbc)
 
 ### Шаги по сборке проекта
 1. Установите Arduino IDE на компьютер
