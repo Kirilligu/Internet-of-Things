@@ -340,3 +340,19 @@ https://www.tinkercad.com/things/9i0L8GXz2Nv-fantastic-turing-wluff?sharecode=Wk
 
 ### Видео работы проекта 
 https://cloud.mail.ru/public/eD3R/KBr9NayK5
+
+## Motion Calibration [Motion Calibration](https://github.com/Kirilligu/Internet-of-Things/tree/main/Motion%20Calibration).
+####  Суть задания
+В этом задании, Вам нужно написать прошивку, которую можно использовать для калибровки движения без перепрошивки. Для этого мы будем использовать Bluetooth модуль, который мы будем использовать как UART, работающий по воздуху, и приложение, которое предоставляет соединение  с bluetooth модулем. В приложении нам понадобиться вариант взаимодействия  gamepad. Используйте кнопки X, B, A, Y, <, >, ^, v для того, чтобы пользователь смог откалибровать движение
+#### Схема подключения
+RX - 13 пин
+TX - 8 пин
+VCC - 5V
+GND - GND
+### Шаги по сборке проекта
+1. Установите Arduino IDE на компьютер
+2. Соберите макет
+3. Загрузите код в плату через USB-кабель
+
+### Видео работы проекта 
+https://cloud.mail.ru/public/hdcc/Lt7WNErmQ
