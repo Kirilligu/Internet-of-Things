@@ -357,3 +357,17 @@ GND - GND
 
 ### Видео работы проекта 
 https://cloud.mail.ru/public/hdcc/Lt7WNErmQ
+
+## Accelerometer_weightlessness [Accelerometer_weightlessness](https://github.com/Kirilligu/Internet-of-Things/tree/main/Accelerometer_weightlessness).
+####  Суть задания
+Реализуйте устройство, которое покажет невесомость. В домашних условиях ее можно, кратковременно добиться, если подбросить объект, вверх. поле достижения максимальной точки и начала движения вниз, объект будет кратковременно находиться в состоянии невесомости.
+#### Схема подключения
+![Безымянный](https://github.com/user-attachments/assets/a81ba49e-ed9d-48a6-a582-9015670b2212)
+
+### Шаги по сборке проекта
+1. Установите Arduino IDE на компьютер
+2. Соберите макет
+3. Загрузите код в плату через USB-кабель
+
+### Видео работы проекта 
+https://cloud.mail.ru/public/Ea3u/gRHAx3jzU
