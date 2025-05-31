@@ -28,9 +28,9 @@
 
 ### Схема подключения 
 ![circuit_image](https://github.com/user-attachments/assets/9762e217-04d1-4e3b-a1ae-de5b6fcbc37e)
-![image](https://github.com/user-attachments/assets/b89510ce-1c5d-42d8-baca-873d24c12bb7)
-![image](https://github.com/user-attachments/assets/61e9d958-426e-4d18-b36b-81e035d61759)
-![image](https://github.com/user-attachments/assets/9da33ab6-9e39-47ad-8a04-3204cf79c0df)
+![image](https://github.com/user-attachments/assets/b89510ce-1c5d-42d8-baca-873d24c12bb7){ width=50% }
+![image](https://github.com/user-attachments/assets/61e9d958-426e-4d18-b36b-81e035d61759){ width=50% }
+![image](https://github.com/user-attachments/assets/9da33ab6-9e39-47ad-8a04-3204cf79c0df){ width=50% }
 
 ### Схема подключения с фарами и задними стоп сигналами (+ Arduino UNO)
 ![circuit_image (1)](https://github.com/user-attachments/assets/9495fef7-f646-4586-aa94-9977dd09a772)
