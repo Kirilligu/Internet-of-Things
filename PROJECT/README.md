@@ -36,17 +36,19 @@
 
 ### Схема подключения с фарами и задними стоп сигналами (+ Arduino UNO)
 ![circuit_image (1)](https://github.com/user-attachments/assets/9495fef7-f646-4586-aa94-9977dd09a772)
-![image](https://github.com/user-attachments/assets/a05c4e09-df53-4951-871b-30dd9479ca83)
+<img src="https://github.com/user-attachments/assets/a05c4e09-df53-4951-871b-30dd9479ca83" width="120">
 
 ## Сборка
-![image](https://github.com/user-attachments/assets/ef786e53-52a5-4dc4-839c-20efae7600ea)
-![image](https://github.com/user-attachments/assets/c677534f-5a10-450c-a064-2068cc90e920)
-![image](https://github.com/user-attachments/assets/252a005d-cf1b-4da2-9adb-f30bec0504b3)
-![image](https://github.com/user-attachments/assets/0ce170c0-7a1c-4320-a405-ff12504381af)
-![image](https://github.com/user-attachments/assets/7c9e0ed1-6d75-4dde-86a0-88c335f7f4ea)
-![image](https://github.com/user-attachments/assets/54334318-78cb-469f-becd-4d58a9d72802)
-![image](https://github.com/user-attachments/assets/d78b9f1b-a8c6-4ebf-ae74-bd6212327387)
-![image](https://github.com/user-attachments/assets/5d27fcd1-a4a8-4075-9eaa-587825be224c)
-![image](https://github.com/user-attachments/assets/ca8eb34c-cb15-4767-9bfd-d3552be64aec)
+<div style="text-align:center; white-space:nowrap; overflow-x:auto;">
+  <img src="https://github.com/user-attachments/assets/ef786e53-52a5-4dc4-839c-20efae7600ea" width="120" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/c677534f-5a10-450c-a064-2068cc90e920" width="120" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/252a005d-cf1b-4da2-9adb-f30bec0504b3" width="120" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/0ce170c0-7a1c-4320-a405-ff12504381af" width="120" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/7c9e0ed1-6d75-4dde-86a0-88c335f7f4ea" width="120" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/54334318-78cb-469f-becd-4d58a9d72802" width="120" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/d78b9f1b-a8c6-4ebf-ae74-bd6212327387" width="120" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/5d27fcd1-a8a8-4075-9eaa-587825be224c" width="120" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/ca8eb34c-cb15-4767-9bfd-d3552be64aec" width="120" style="display:inline-block; margin:5px;">
+</div>
 
 
