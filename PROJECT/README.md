@@ -2,12 +2,19 @@
 
 ### Комплектующие
 Arduino Uno — https://clck.ru/3MMuch
+
 Драйвер моторов L298N — https://clck.ru/3MMufo
+
 ESP32 CAM — https://clck.ru/3MMuhq
+
 Моторы постоянного тока с редуктором и колёсам (2 шт) — https://clck.ru/3MMujJ
+
 Сервомотор SG90 — https://clck.ru/3MMuqN
+
 Соеденительные провода папа-папа, мама-мама, папа-мама 10-30 см — https://clck.ru/3MMutK
+
 Аккумулятор 18650 — https://clck.ru/3MMuvA
+
 Переключатель — https://clck.ru/3MMuxE
 
 ### Крепежные материалы 
