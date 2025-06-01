@@ -5,6 +5,8 @@
 - передавать видео в реальном времени через веб-интерфейс
 - управляться удалённо с помощью кнопок (вперёд/назад/влево/вправо)
 
+### Детали для 3D-печати
+Готовые детали машины для 3D-печати [3D printer machine details](https://github.com/Kirilligu/Internet-of-Things/tree/main/PROJECT/3D%20printer%20machine%20details).
 ### Комплектующие
 - Arduino Uno — https://clck.ru/3MMuch
 - Драйвер моторов L298N — https://clck.ru/3MMufo
