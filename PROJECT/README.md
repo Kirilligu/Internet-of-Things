@@ -37,6 +37,7 @@
 ### Схема подключения с фарами и задними стоп сигналами (+ Arduino UNO)
 ![circuit_image (1)](https://github.com/user-attachments/assets/9495fef7-f646-4586-aa94-9977dd09a772)
 <img src="https://github.com/user-attachments/assets/a05c4e09-df53-4951-871b-30dd9479ca83" width="300">
+<img src="https://github.com/user-attachments/assets/51f3840b-4a47-49f9-ba17-175c9df41d46" width="300">
 
 ## Сборка
 <div style="text-align:center; white-space:nowrap; overflow-x:auto;">
@@ -51,3 +52,5 @@
   <img src="https://github.com/user-attachments/assets/ca8eb34c-cb15-4767-9bfd-d3552be64aec" width="300" style="display:inline-block; margin:5px;">
 </div>
 
+## Прошивка плат
+Если вы сделали передние и задние фары, то код для Arduino UNO находится в папке [codes for the firmware](https://github.com/Kirilligu/Internet-of-Things/blob/main/PROJECT/codes%20for%20the%20firmware/headlights.ino).
