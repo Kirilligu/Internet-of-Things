@@ -54,3 +54,5 @@
 
 ## Прошивка плат
 Если вы сделали передние и задние фары, то код для Arduino UNO находится в папке [codes for the firmware](https://github.com/Kirilligu/Internet-of-Things/blob/main/PROJECT/codes%20for%20the%20firmware/headlights.ino).
+
+Прошивка для ESP32 CAM находится в папке [ESP32 CAM](https://github.com/Kirilligu/Internet-of-Things/tree/main/PROJECT/codes%20for%20the%20firmware/ESP32%20CAM).
